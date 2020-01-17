@@ -1,0 +1,8 @@
+.settings/
+bin/
+.classpath
+.project
+config.properties
+doc-to-upload.xml
+downloader-config.properties
+uploader-config.properties
